@@ -1,2 +1,3 @@
 # Java_projects
-This repository is for all the code practice during the OO[P 1 unit over the semester 1.2 , 2024.
+Mwangi, Stacy Njoki, 160077.
+This repository is for all the coding challenges during the OOP 2 unit over the semester 2.1, 2025-2026.
